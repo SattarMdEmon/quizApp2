@@ -1,0 +1,970 @@
+{
+    "Sheet1": [
+        {
+            "SL": "1",
+            "Category": "Basic",
+            "Questions": "Which of the following is called the “first line of defense”?",
+            "OptionA": "Risk Management",
+            "OptionB": "Compliance",
+            "OptionC": "Business",
+            "OptionD": "Internal Audit",
+            "Answer": "C"
+        },
+        {
+            "SL": "2",
+            "Category": "Basic",
+            "Questions": "An essential part of the internal control framework is",
+            "OptionA": "Periodic testing",
+            "OptionB": "3 units of ICC",
+            "OptionC": "Head of Audit reports to Board",
+            "OptionD": "Head of ICC is below 2 tiers from MD",
+            "Answer": "A"
+        },
+        {
+            "SL": "3",
+            "Category": "Basic",
+            "Questions": "Internal Control is best described by all of the followings EXCEPT-",
+            "OptionA": "Internal Control is a process; rather than a structure",
+            "OptionB": "It is not a separate activity disconnected from the rest of business activities.",
+            "OptionC": "It is a dynamic, continuing series of activities planned, implemented and monitored by the board of directors",
+            "OptionD": "Internal control is designed to provide 100% assurance regarding the achievement of objectives.",
+            "Answer": "D"
+        },
+        {
+            "SL": "4",
+            "Category": "Basic",
+            "Questions": "All of the followings are part of Control Environment EXCEPT-",
+            "OptionA": "A board of directors that is actively concerned with sound corporate governance",
+            "OptionB": "A management that actively manages & operates the Bank in a sound and prudent manner;",
+            "OptionC": "Organizational & procedural controls supported by a minor management information system.",
+            "OptionD": "An independent audit mechanism to monitor the effectiveness of the organizational and procedural controls.",
+            "Answer": "C"
+        },
+        {
+            "SL": "5",
+            "Category": "Basic",
+            "Questions": "Which of the following is not an objectives of Internal Control in a Bank?",
+            "OptionA": "Legal Objectives",
+            "OptionB": "Operations Objectives",
+            "OptionC": "Reporting Objectives",
+            "OptionD": "Compliance Objectives",
+            "Answer": "A"
+        },
+        {
+            "SL": "6",
+            "Category": "Basic",
+            "Questions": "Operations Objectives do not include-",
+            "OptionA": "A. Compliance with a bank’s internal policies and procedures.",
+            "OptionB": "B. Customer & employee satisfaction",
+            "OptionC": "C. Achievement of social goals",
+            "OptionD": "D. Submission of Board minutes to BB.",
+            "Answer": "D"
+        },
+        {
+            "SL": "7",
+            "Category": "Basic",
+            "Questions": "All of the followings are component of Internal Control EXCEPT",
+            "OptionA": "A. Control Environment",
+            "OptionB": "B. Legal Counsel of Bank",
+            "OptionC": "C. Control Activities",
+            "OptionD": "D. Information & Communication",
+            "Answer": "B"
+        },
+        {
+            "SL": "8",
+            "Category": "Basic",
+            "Questions": "Internal Control of a bank comprised of –",
+            "OptionA": "A. 5 Pinciples",
+            "OptionB": "B. 3 Principles",
+            "OptionC": "C. 17 Principles",
+            "OptionD": "D. 15 Principles",
+            "Answer": "C"
+        },
+        {
+            "SL": "9",
+            "Category": "Basic",
+            "Questions": "Which of the following is the most important aspect of an internal control system-",
+            "OptionA": "A. An appropriate segregation of duties",
+            "OptionB": "B. Personnel who assigned conflicting responsibilities",
+            "OptionC": "C. Adequate control activities are not always integral parts of the daily functions",
+            "OptionD": "D. None of the above",
+            "Answer": "A"
+        },
+        {
+            "SL": "10",
+            "Category": "Basic",
+            "Questions": "Followings are the functions of Board of Directors EXCEPT-",
+            "OptionA": "A. Review the reports submitted by its Audit Committee on quarterly basis",
+            "OptionB": "B. Formation of Audit Committee & Risk Management Committee",
+            "OptionC": "C. Approval of Necessary Policy submitted by Management.",
+            "OptionD": "D. Hold Quarterly Meeting with Head of ICC",
+            "Answer": "D"
+        },
+        {
+            "SL": "11",
+            "Category": "Basic",
+            "Questions": "Followings are the functions of Audit Committee of the Board EXCEPT-",
+            "OptionA": "A. Review the financial reporting process",
+            "OptionB": "B. Review the audit process",
+            "OptionC": "C. Review its own code of business conduct.",
+            "OptionD": "D. Review the functions of Risk Management Committee of the Board.",
+            "Answer": "D"
+        },
+        {
+            "SL": "12",
+            "Category": "Basic",
+            "Questions": "Number of the Audit Committee Member are",
+            "OptionA": "A. 3",
+            "OptionB": "B. 5",
+            "OptionC": "C. 2",
+            "OptionD": "D. Both B & C.",
+            "Answer": "B"
+        },
+        {
+            "SL": "13",
+            "Category": "Basic",
+            "Questions": "Who will be the secretary of the Audit Committee?",
+            "OptionA": "A. Head of ICC",
+            "OptionB": "B. Head of Audit",
+            "OptionC": "C. Company Secretary",
+            "OptionD": "D. Managing Director",
+            "Answer": "C"
+        },
+        {
+            "SL": "14",
+            "Category": "Basic",
+            "Questions": "An Audit Committee members should have preferably educational background in",
+            "OptionA": "A. Finance",
+            "OptionB": "B. Economics",
+            "OptionC": "C. Accounting",
+            "OptionD": "D. All of the above",
+            "Answer": "D"
+        },
+        {
+            "SL": "15",
+            "Category": "Basic",
+            "Questions": "Audit Committee of the Board is not responsible for –",
+            "OptionA": "A. Evaluation of Compliance Culture set by Management",
+            "OptionB": "B. Consider reports related to fraud forgery.",
+            "OptionC": "C. Discuss with Management and external auditors before finalization of financial statements.",
+            "OptionD": "D. Prepare Management Report for Board of Directors.",
+            "Answer": "D"
+        },
+        {
+            "SL": "16",
+            "Category": "Basic",
+            "Questions": "All of the followings are the functions of Audit Committee of the Board EXCEPT-",
+            "OptionA": "A. Review the performance of external auditors",
+            "OptionB": "B. Examine the efficiency and effectiveness of internal audit function;",
+            "OptionC": "C. Make recommendations to the board regarding the appointment of the external auditors.",
+            "OptionD": "D. Conduct special audit of massive fraud",
+            "Answer": "D"
+        },
+        {
+            "SL": "17",
+            "Category": "Basic",
+            "Questions": "At least how many meetings will Audit Committee conduct in a year?",
+            "OptionA": "A. 3",
+            "OptionB": "B. 4",
+            "OptionC": "C. 5",
+            "OptionD": "D. 6",
+            "Answer": "B"
+        },
+        {
+            "SL": "18",
+            "Category": "Basic",
+            "Questions": "Audit Committee can call any one of the followings in their meeting EXCEPT-",
+            "OptionA": "A. MD & CEO",
+            "OptionB": "B. Head of ICC",
+            "OptionC": "C. Head of Audit",
+            "OptionD": "D. Retainer of the Bank",
+            "Answer": "D"
+        },
+        {
+            "SL": "19",
+            "Category": "Basic",
+            "Questions": "What does SMT stands for?",
+            "OptionA": "A. Security Management Team",
+            "OptionB": "B. Senior MANCOM Team",
+            "OptionC": "C. Senior Management Team",
+            "OptionD": "D. None of the above",
+            "Answer": "C"
+        },
+        {
+            "SL": "20",
+            "Category": "Basic",
+            "Questions": "In setting out a strong control framework within the organization, whose Role is very important among the followings?",
+            "OptionA": "A. Managing Director & CEO.",
+            "OptionB": "B. Audit Committee of the Board",
+            "OptionC": "C. Head of Internal Audit",
+            "OptionD": "D. None of the above.",
+            "Answer": "A"
+        },
+        {
+            "SL": "21",
+            "Category": "Basic",
+            "Questions": "All of the followings can be a Member of Triple C EXCEPT",
+            "OptionA": "A. Head of ICC",
+            "OptionB": "B. Head of Audit",
+            "OptionC": "C. Head of IT",
+            "OptionD": "D. Head of CRM",
+            "Answer": "B"
+        },
+        {
+            "SL": "22",
+            "Category": "Basic",
+            "Questions": "Which of the followings is not the functions of SMT?",
+            "OptionA": "A. Monitoring the adequacy and effectiveness of the Internal Control",
+            "OptionB": "B. Yearly review on the overall effectiveness of the control system",
+            "OptionC": "C. Enrich audit teams with adequate skilled manpower",
+            "OptionD": "D. Maintain Liaison with BB",
+            "Answer": "D"
+        },
+        {
+            "SL": "23",
+            "Category": "Basic",
+            "Questions": "23. An effective internal control system requires-",
+            "OptionA": "A. There is an efficient reporting system",
+            "OptionB": "B. Information have to that include external market information",
+            "OptionC": "C. All staff fully understand and adhere to policies and procedures",
+            "OptionD": "D. All of the above",
+            "Answer": "D"
+        },
+        {
+            "SL": "24",
+            "Category": "Basic",
+            "Questions": "24. All of the followings are the component of Effective Control Risk Assessment EXCEPT-",
+            "OptionA": "A. Employee Turnover",
+            "OptionB": "B. Changes in the Industry",
+            "OptionC": "C. Socio-political realities",
+            "OptionD": "D. Products & Services",
+            "Answer": "D"
+        },
+        {
+            "SL": "25",
+            "Category": "Basic",
+            "Questions": "All of the followings are the component of Audit Risk EXCEPT-",
+            "OptionA": "A. Control Risk",
+            "OptionB": "B. Detection Risk",
+            "OptionC": "C. Reputation Risk",
+            "OptionD": "D. Inherent Risk",
+            "Answer": "C"
+        },
+        {
+            "SL": "26",
+            "Category": "Basic",
+            "Questions": "Which of the following best describes ICCD?",
+            "OptionA": "A. Internal watchdog of the organization",
+            "OptionB": "B. Risk Identifier of the Bank",
+            "OptionC": "C. Financial controller",
+            "OptionD": "D. All of the above",
+            "Answer": "A"
+        },
+        {
+            "SL": "27",
+            "Category": "Basic",
+            "Questions": "Audit staff will be the combination of-",
+            "OptionA": "A. Audit staff will be the combination of",
+            "OptionB": "B. IT knowledge base",
+            "OptionC": "C. Law expert",
+            "OptionD": "D. Both A & B",
+            "Answer": "D"
+        },
+        {
+            "SL": "28",
+            "Category": "Basic",
+            "Questions": "Officers of ICCD are authorized to:",
+            "OptionA": "A. Initiate or approve accounting transactions",
+            "OptionB": "B. Audit their own works performed",
+            "OptionC": "C. Have unrestricted access to all functions",
+            "OptionD": "D. Check personal drawer of Branch people",
+            "Answer": "C"
+        },
+        {
+            "SL": "29",
+            "Category": "Audit",
+            "Questions": "The Audit Committee of the Board is governed and guided by:",
+            "OptionA": "BFIU",
+            "OptionB": "b) Board of Directors",
+            "OptionC": "c) BRPD",
+            "OptionD": "d) DOS"
+        },
+        {
+            "SL": "30",
+            "Category": "Audit",
+            "Questions": "Who check the financial statements of the Banks?",
+            "OptionA": "a) Board of Directors",
+            "OptionB": "b) MANCOM",
+            "OptionC": "c) Audit Committee",
+            "OptionD": "d) ALCO"
+        },
+        {
+            "SL": "31",
+            "Category": "Audit",
+            "Questions": "Which is not Function of ACB regarding Internal Audit:",
+            "OptionA": "a) To monitor whether internal audit is working independently from the Management",
+            "OptionB": "b) Review the activities and the organizational structure of the internal audit",
+            "OptionC": "c) Setting the business target for Internal Audit Team",
+            "OptionD": "d) Examine the efficiency and effectiveness of internal audit function"
+        },
+        {
+            "SL": "32",
+            "Category": "Audit",
+            "Questions": "Which one is not internal factor in assessing risk:",
+            "OptionA": "a) The quality of personnel",
+            "OptionB": "b) Changes in the Industry",
+            "OptionC": "c) Employee turnover",
+            "OptionD": "d) Complexity of the organization structure"
+        },
+        {
+            "SL": "33",
+            "Category": "Audit",
+            "Questions": "Which one is not External factor in assessing risk:",
+            "OptionA": "a) Socio-political realities",
+            "OptionB": "b) Changes in rules and regulations",
+            "OptionC": "c) Employee turnover",
+            "OptionD": "d) Fluctuating economic conditions"
+        },
+        {
+            "SL": "34",
+            "Category": "Audit",
+            "Questions": "Which of the following is not relevant Internal Audit activity",
+            "OptionA": "a) Independent",
+            "OptionB": "b) Regular watcher",
+            "OptionC": "c) Objective assurance",
+            "OptionD": "d) Consulting activity"
+        },
+        {
+            "SL": "35",
+            "Category": "Audit",
+            "Questions": "Which of the following is not a core quality of an auditor:",
+            "OptionA": "a) Bold",
+            "OptionB": "b) Honest",
+            "OptionC": "c) Truthful",
+            "OptionD": "d) Intelligent"
+        },
+        {
+            "SL": "36",
+            "Category": "Audit",
+            "Questions": "Basic Audit planning process has",
+            "OptionA": "a) 2 phases",
+            "OptionB": "b) 3 phases",
+            "OptionC": "c) 5 phases",
+            "OptionD": "d) None of the above"
+        },
+        {
+            "SL": "37",
+            "Category": "Audit",
+            "Questions": "The assessment of Business and Control Risk for the development of Annual Plan Focuses on",
+            "OptionA": "a) Ranking the auditable units",
+            "OptionB": "b) Defining the risk criteria",
+            "OptionC": "c) Defining auditable units",
+            "OptionD": "d) All of the above"
+        },
+        {
+            "SL": "38",
+            "Category": "Audit",
+            "Questions": "For conducting audit, audit team will consider:",
+            "OptionA": "a) The level of risk.",
+            "OptionB": "b) Nature of operations.",
+            "OptionC": "c) Complexity of operations",
+            "OptionD": "d) All of the above"
+        },
+        {
+            "SL": "39",
+            "Category": "Audit",
+            "Questions": "Based on the gravity of the irregularities in audit point of view, which cannot be classified as lapse:",
+            "OptionA": "a) Minor Irregularities",
+            "OptionB": "b) Moderate Lapses",
+            "OptionC": "c) Deemed to be Serious Lapses",
+            "OptionD": "d) Serious Lapses"
+        },
+        {
+            "SL": "40",
+            "Category": "Audit",
+            "Questions": "The type of information that are not collected by Internal Audit during audit:",
+            "OptionA": "a) Personal Information",
+            "OptionB": "b) Organization chart",
+            "OptionC": "c) Financial statements",
+            "OptionD": "d) Statistical data"
+        },
+        {
+            "SL": "41",
+            "Category": "Audit",
+            "Questions": "Audit working papers are generally serve the purpose of:",
+            "OptionA": "a) Aid in advance of internal audit staff",
+            "OptionB": "b) Provide principal support for the audit report",
+            "OptionC": "c) Document whether audit objectives were achieved -Facilitate third party reviews",
+            "OptionD": "d) All of the above"
+        },
+        {
+            "SL": "42",
+            "Category": "Audit",
+            "Questions": "The active working papers should include the following documents:",
+            "OptionA": "a) Engagement letter",
+            "OptionB": "b) Memos of interviews with Management",
+            "OptionC": "c) Audit findings and recommendations",
+            "OptionD": "d) All of the above"
+        },
+        {
+            "SL": "43",
+            "Category": "Audit",
+            "Questions": "Which of the following item to be included in the Audit Report:",
+            "OptionA": "a) Recommendation to resolve the issue",
+            "OptionB": "b) A statement of what was expected - The factual evidence of what the auditor found",
+            "OptionC": "c) The reason for the difference",
+            "OptionD": "d) All of the above."
+        },
+        {
+            "SL": "44",
+            "Category": "Audit",
+            "Questions": "The following reporting structure can be used as a benchmark for the banks EXCEPT:",
+            "OptionA": "a) For low and medium risk items findings will be reported to the MD/CEO.",
+            "OptionB": "b) For medium and high risk items findings will be reported to the MD/CEO and the Audit Committee of the Board.",
+            "OptionC": "c) High risk items findings will be reported to the Board of Directors.",
+            "OptionD": "d) ICCD will prepare an annual integrated report on the health of the Bank to be submitted to the Board of Directors for onward submission to Bangladesh Bank."
+        },
+        {
+            "SL": "45",
+            "Category": "Audit",
+            "Questions": "The Health of the bank is assessed from EXCEPT:",
+            "OptionA": "a) Financial Health",
+            "OptionB": "b) Health of HRD",
+            "OptionC": "c) Internal Control & Compliance Health",
+            "OptionD": "d) Image & Reputation Health"
+        },
+        {
+            "SL": "46",
+            "Category": "Audit",
+            "Questions": "Health Report of the Bank to be done:",
+            "OptionA": "a) Half Yearly.",
+            "OptionB": "b) Annually",
+            "OptionC": "c) Quarterly",
+            "OptionD": "d) Bimonthly"
+        },
+        {
+            "SL": "47",
+            "Category": "Audit",
+            "Questions": "Traditionally the concept of audit means to:",
+            "OptionA": "a) Find out the mistakes",
+            "OptionB": "b) Breach of policy",
+            "OptionC": "c) Delineating specific areas of risk",
+            "OptionD": "d) All of the above"
+        },
+        {
+            "SL": "48",
+            "Category": "Audit",
+            "Questions": "The audit team of the bank must focus on:",
+            "OptionA": "a) Identification of breach in policy and procedures.",
+            "OptionB": "b) Incident of fraud/ Misappropriation",
+            "OptionC": "c) Recommending remedial course of actions, where necessary",
+            "OptionD": "d) All of the above"
+        },
+        {
+            "SL": "49",
+            "Category": "Audit",
+            "Questions": "TOR to be provided",
+            "OptionA": "a) At least 5 (five) working days before commencement of the audit",
+            "OptionB": "b) 7 (Seven) working days before commencement of the audit",
+            "OptionC": "c) At least 7 (seven) working days before commencement of the audit",
+            "OptionD": "d) 10 (Ten) working days before commencement of the audit"
+        },
+        {
+            "SL": "50",
+            "Category": "Audit",
+            "Questions": "The preliminary response must be submitted by the Branch / department:",
+            "OptionA": "a) After fourteen days of receiving draft report from Audit Team.",
+            "OptionB": "b) After seven days of receiving draft report from Audit Team",
+            "OptionC": "c) Within seven days of receiving draft report from Audit Team",
+            "OptionD": "d) Within fourteen days of receiving draft report from Audit Team"
+        },
+        {
+            "SL": "51",
+            "Category": "Audit",
+            "Questions": "A debriefing session with department/branch head to be arranged:",
+            "OptionA": "a) Within next One week",
+            "OptionB": "b) Within next One month",
+            "OptionC": "c) Within next Two weeks",
+            "OptionD": "d) Based on mutually agreed time."
+        },
+        {
+            "SL": "52",
+            "Category": "Audit",
+            "Questions": "The audit team shall provide the final audit report with Rating to the Audited Division / Department:",
+            "OptionA": "a) Within fourteen days of debriefing session",
+            "OptionB": "b) Within next one month of debriefing session",
+            "OptionC": "c) Within Seven days of debriefing session",
+            "OptionD": "d) As per management decision"
+        },
+        {
+            "SL": "53",
+            "Category": "Audit",
+            "Questions": "Impact assessment criteria may include:",
+            "OptionA": "a) Security",
+            "OptionB": "b) Environmental",
+            "OptionC": "c) Both A & B",
+            "OptionD": "d) None of the above"
+        },
+        {
+            "SL": "54",
+            "Category": "Audit",
+            "Questions": "Which of the followings is not an EBL standard audit Rating:",
+            "OptionA": "a) Strong",
+            "OptionB": "b) Satisfactory",
+            "OptionC": "c) Acceptable",
+            "OptionD": "d) Marginal"
+        },
+        {
+            "SL": "55",
+            "Category": "Audit",
+            "Questions": "The responsibility of implementing internal controls starts with:",
+            "OptionA": "a) Monitoring Unit",
+            "OptionB": "b) Internal Audit team",
+            "OptionC": "c) The business lines",
+            "OptionD": "d) Compliance unit"
+        },
+        {
+            "SL": "56",
+            "Category": "Audit",
+            "Questions": "Which of the following is not among the main objectives of internal control areas:",
+            "OptionA": "a) Operations Objectives.",
+            "OptionB": "b) Reporting Objectives.",
+            "OptionC": "c) Business Objectives.",
+            "OptionD": "d) Compliance Objectives"
+        },
+        {
+            "SL": "57",
+            "Category": "Audit",
+            "Questions": "The responsibility of the Board of Directors in respect of implementing a modern, scientific and acceptable Internal Control and Compliance Process in a Bank has been described in:",
+            "OptionA": "a) Bangladesh Bank BRPD Circular",
+            "OptionB": "b) Notice of Ministry of Finance",
+            "OptionC": "c) Bank Company Act",
+            "OptionD": "d) AML Circular"
+        },
+        {
+            "SL": "58",
+            "Category": "Audit",
+            "Questions": "Internal Audit Reports to:",
+            "OptionA": "a) Board of Directors",
+            "OptionB": "b) Managing Director",
+            "OptionC": "c) Head of ICCD",
+            "OptionD": "d) Audit Committee of the Board"
+        },
+        {
+            "SL": "59",
+            "Category": "Audit",
+            "Questions": "The BOD shall review the reports submitted by its audit committee:",
+            "OptionA": "a) On quarterly basis",
+            "OptionB": "b) On monthly Basis",
+            "OptionC": "c) On half yearly basis",
+            "OptionD": "d) On yearly basis"
+        },
+        {
+            "SL": "60",
+            "Category": "Audit",
+            "Questions": "Which one is true? the audit committee will comprise of:",
+            "OptionA": "a) Maximum 05 (five) members",
+            "OptionB": "b) Minimum 2 (two) independent director",
+            "OptionC": "c) Both A & B",
+            "OptionD": "d) None of the above"
+        },
+        {
+            "SL": "61",
+            "Category": "Audit",
+            "Questions": "Which of the following qualities are taken into account while nominating a director from the BOD to Audit Committee?",
+            "OptionA": "a) Integrity",
+            "OptionB": "b) Dedication",
+            "OptionC": "c) Both A & B",
+            "OptionD": "d) Number of Shares of the bank"
+        },
+        {
+            "SL": "62",
+            "Category": "Audit",
+            "Questions": "Primary goal of the IS audit department of a bank is:",
+            "OptionA": "a) To determine information & related technological security loopholes",
+            "OptionB": "b) Recommend feasible solution",
+            "OptionC": "c) Both A & B",
+            "OptionD": "d) None of the above"
+        },
+        {
+            "SL": "63",
+            "Category": "Audit",
+            "Questions": "Which of the following information should be included in the Audit report Findings:",
+            "OptionA": "a) A statement of what was expected",
+            "OptionB": "b) The factual evidence of what the auditor found",
+            "OptionC": "c) The reason for the difference",
+            "OptionD": "d) All of the above"
+        },
+        {
+            "SL": "64",
+            "Category": "Audit",
+            "Questions": "IS audit which is also known as?",
+            "OptionA": "a) Automated Data Processing (ADP)",
+            "OptionB": "b) Electronic Data Processing (EDP)",
+            "OptionC": "c) Both A & B",
+            "OptionD": "d) None of the above"
+        },
+        {
+            "SL": "65",
+            "Category": "Audit",
+            "Questions": "Which of the following aspects should be covered in conducting audit on overall information & related technological security?",
+            "OptionA": "a) IT Asset Management",
+            "OptionB": "b) IT Service & Facility Management",
+            "OptionC": "c) Database Access & Network Security Management",
+            "OptionD": "d) All of the above"
+        },
+        {
+            "SL": "66",
+            "Category": "Audit",
+            "Questions": "Which of the following areas has to be covered in IS/IT Audit for overall data security",
+            "OptionA": "a) System Design",
+            "OptionB": "b) Application/Software Security",
+            "OptionC": "c) Information Processing Facilities",
+            "OptionD": "d) All of the above"
+        },
+        {
+            "SL": "67",
+            "Category": "Audit",
+            "Questions": "According to Bank Company Act, banks prepare their annual account statements and have them audited by",
+            "OptionA": "a) An external auditor",
+            "OptionB": "b) Internal Auditor",
+            "OptionC": "c) Both A & B",
+            "OptionD": "d) Bangladesh Bank Audit Team"
+        },
+        {
+            "SL": "68",
+            "Category": "Audit",
+            "Questions": "Banks have to assess their system/administration and report to BB Half yearly as per :",
+            "OptionA": "a) DOS Circular Letter No 9",
+            "OptionB": "b) DOS Circular Letter No 10",
+            "OptionC": "c) DOS Circular Letter No 11",
+            "OptionD": "d) DOS Circular Letter No 12"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "Which of the following is the tool used by ICC of the bank to strengthen internal check and internal control system of the bank",
+            "OptionA": "a) Department Control Function Checklist",
+            "OptionB": "b) Quarterly Operations Report",
+            "OptionC": "c) Self-Assessment Anti-Fraud Internal Control Checklist",
+            "OptionD": "d) All of the above",
+            "OptionE": "e) None of the above"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "As per ICC Guidelines who will review the DCFCL?",
+            "OptionA": "a) Internal Auditors of the Bank",
+            "OptionB": "b) Departmental Managers, Line Managers, and Branch Managers",
+            "OptionC": "c) Monitoring Unit of the Bank",
+            "OptionD": "d) MD & CEO of the Bank",
+            "OptionE": "e) Board of Directors of the Bank"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "Which of the following is the indicator that describes the Banks’s ideal level of loans and advances against its deposit?",
+            "OptionA": "a. Advance-Deposit Ratio (A-D ratio)",
+            "OptionB": "b. Capital Adequacy/Solvency",
+            "OptionC": "c. Cash Reserve Ratio (CRR) & Statutory Liquidity Reserve (SLR)",
+            "OptionD": "d. All of the above",
+            "OptionE": "e. None of the above"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "Monitoring Department of ICC Division are responsible for which of the following:",
+            "OptionA": "a. To verify the internal control system & Operational activities",
+            "OptionB": "b. To ensure timely and effective audit including ICT Audit by Internal Control Team",
+            "OptionC": "c. To prepare and submit Self-Assessment of Anti-Fraud Internal Controls report to Bangladesh Bank",
+            "OptionD": "d. All of the above",
+            "OptionE": "e. None of the above"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "The scope of work of the ICC Department is to determine whether the Bank's network of risk Management, control and governance processes, as designed and represented by Management, is adequate and functioning in a manner to ensure:",
+            "OptionA": "a. Adequacy and effectiveness of risk Management system",
+            "OptionB": "b. Employees' actions in compliance with policies, standards, procedures, laws and regulations.",
+            "OptionC": "c. Fostering the quality and continuous improvement in the bank's control process.",
+            "OptionD": "d. All of the above",
+            "OptionE": "e. None of the above"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "UCPDC stands for?",
+            "OptionA": "a. Uniform Customs and Practices for Documentary Credit.",
+            "OptionB": "b. Uniform Customs and Practice for Documentary Credit.",
+            "OptionC": "c. Uniform Customs and Practice for Documentary Credits.",
+            "OptionD": "d. Uniform Custom and Practices for Documentary Credits."
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "In a documentary credit process, the importer is also known as --------------------?",
+            "OptionA": "a. Beneficiary.",
+            "OptionB": "b. Drawer.",
+            "OptionC": "c. Applicant.",
+            "OptionD": "d. Seller."
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "Under an irrevocable credit, who MUST undertake the primary liability for payment?",
+            "OptionA": "a. The applicant.",
+            "OptionB": "b. The issuing bank.",
+            "OptionC": "c. The advising bank.",
+            "OptionD": "d. The nominated bank."
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "Who is the primary regulator of Bank Company?",
+            "OptionA": "a) Ministry of Finance.",
+            "OptionB": "b) Bangladesh Bank.",
+            "OptionC": "c) Bangladesh Securities and Exchange Commission.",
+            "OptionD": "d) Ministry of Home Affairs.",
+            "OptionE": "e) National Board of Revenue."
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "What are the main objectives of Internal Control System in a Bank?",
+            "OptionA": "a) Operations Objectives.",
+            "OptionB": "b) Reporting Objectives.",
+            "OptionC": "c) Compliance Objectives.",
+            "OptionD": "d) All of the above."
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "Which of the following is not a control tools as per ICC guidelines of Bangladesh Bank?",
+            "OptionA": "a) Departmental Control Function Checklist (DCFCL)",
+            "OptionB": "b) Quarterly Operations Report (QOR)",
+            "OptionC": "c) Daily Attendance Report of Employees (DARE)",
+            "OptionD": "d) Loan Documentation Checklist (LDLC)"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "Regarding Audit Committee of the Board which of the following statements is false?",
+            "OptionA": "a) Members of the Audit Committee are nominated by Board of Directors from directors.",
+            "OptionB": "b) Audit Committee with comprise of maximum five (5) directors with minimum two (2) Independent Directors.",
+            "OptionC": "c) Audit Committee members must be member of Executive Committee of the Board.",
+            "OptionD": "d) Company Secretary will be the secretary of the Audit Committee."
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "Regarding Internal Control which of following statements is false?",
+            "OptionA": "a) Internal Control is a process rather than a structure.",
+            "OptionB": "b) Internal Control is not a separate activity disconnected from rest of the business functions.",
+            "OptionC": "c) Internal control provides absolute assurance not reasonable assurance.",
+            "OptionD": "d) Internal control is a dynamic, continuous series of activities planned, implemented and monitored by Board of Directors and Management at all level."
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "As per BB Circular which of the following is required Positive Pay Instructions of account holders?",
+            "OptionA": "a) A cheque of Proprietorship or Corporate account amounting Taka One Lac and above and a Cheque of Individual account amounting Taka Five Lac and above.",
+            "OptionB": "b) A cheque of Proprietorship or Corporate account amounting Taka Five Lac and above and a Cheque of Individual account amounting Taka One Lac and above.",
+            "OptionC": "c) All cheque of Corporate or Proprietorship Account.",
+            "OptionD": "d) No cheque of Individual Account."
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "To whom will ICC report the material control deficiencies with specific recommendations?",
+            "OptionA": "a) Audit Committee of the BOD.",
+            "OptionB": "b) Managing Director of the Bank",
+            "OptionC": "c) Head of the Department/Division",
+            "OptionD": "d) Branch Manager"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "Where the DCFCL should be retained for future inspection?",
+            "OptionA": "a) With the Branches/Departments.",
+            "OptionB": "b) With the compliance Unit of ICC",
+            "OptionC": "c) With Internal Audit file",
+            "OptionD": "d) Monitoring Department of ICC"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "What is the deadline for branches to submit the QOR to ICCD?",
+            "OptionA": "a) As and when prepared",
+            "OptionB": "b) By the 15th of the following month after each quarter",
+            "OptionC": "c) By the 10th of the following month after each quarter.",
+            "OptionD": "d) By the 20th of the following month after each quarter."
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "The deviations in the quarterly operations report must be stated in which report?",
+            "OptionA": "a) QOR Exception Report.",
+            "OptionB": "b) Quarterly Operations Report",
+            "OptionC": "c) Statement of Anti-Fraud",
+            "OptionD": "d) Self-Assessment Anti-Fraud Internal Control Checklist"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "What are the two reserve requirements that treasury has to comply with?",
+            "OptionA": "a) PLR and SLR",
+            "OptionB": "b) CRR and SLR",
+            "OptionC": "c) Repo and CRR",
+            "OptionD": "d) VaR and CRR"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "What is the full form of CRR?",
+            "OptionA": "a) Cash Reserve Ratio",
+            "OptionB": "b) Cash Reserve Requirement",
+            "OptionC": "c) Cash Regulatory Requirement",
+            "OptionD": "d) Cash Regulatory Ratio"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "How much USD one person can bring out with his /her travel to abroad during a calendar year?",
+            "OptionA": "a) USD 12,000.00",
+            "OptionB": "b) USD 7,000.00",
+            "OptionC": "c) USD 20,000.00",
+            "OptionD": "d) USD15,000.00"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "After how long time a cheque will be treated as stale?",
+            "OptionA": "a) After 180 days of issuance",
+            "OptionB": "b) After 360 days of issuance",
+            "OptionC": "c) After 90 days of issuance",
+            "OptionD": "d) None of the above"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "PIN stands for –",
+            "OptionA": "a) Personal Identification Number",
+            "OptionB": "b) Personal Identifying Number",
+            "OptionC": "c) Permanent Identification Number",
+            "OptionD": "d) Personal Information Number"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "NPSB stands for-",
+            "OptionA": "a) National Payment Switch Bangladesh",
+            "OptionB": "b) National Payment System Bangladesh",
+            "OptionC": "c) National Payment Switch Bank",
+            "OptionD": "d) National Payment System of Bangladesh"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "The deviations in the quarterly operations report must be stated in which report?",
+            "OptionA": "a) DCFCL",
+            "OptionB": "b) PRI",
+            "OptionC": "c) QOR",
+            "OptionD": "d) Self-Assessment Report"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "What does DNFBP stand for?",
+            "OptionA": "a) Designated Non-Financial Business and Profession",
+            "OptionB": "b) Director of Non-Financial Business or Professions",
+            "OptionC": "c) Designated Non-Financial Businesses or Professionals",
+            "OptionD": "d) None of the Above"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "Which of the following does not fall under the three important “Control Functions” of a bank?",
+            "OptionA": "a) Internal audit",
+            "OptionB": "b) Risk management",
+            "OptionC": "c) Staff training",
+            "OptionD": "d) Compliance"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "Fill in the blank- “The rank of the Head of ICC must not lower than ---------------Step below the CEO”.",
+            "OptionA": "a) One",
+            "OptionB": "b) Two",
+            "OptionC": "c) Three",
+            "OptionD": "d) Four"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "What is the full form of LDCL?",
+            "OptionA": "a) Loan Documentation Checklist",
+            "OptionB": "b) Loan Documentation Control List",
+            "OptionC": "c) Liability Documentation Checklist",
+            "OptionD": "d) Loan Decision Checklist"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "What is the full form of QOR?",
+            "OptionA": "a) Quality Operations Report",
+            "OptionB": "b) Quarterly Operations Review",
+            "OptionC": "c) Quality Operations Review",
+            "OptionD": "d) Quarterly Operations Report"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "Which one of the following is not a component of Business Risk?",
+            "OptionA": "a) Country or Jurisdictional risk",
+            "OptionB": "b) Customer risk",
+            "OptionC": "c) Product/ Service risk",
+            "OptionD": "d) Regulatory risk"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "Which of the following are not a role/ responsibility of Account Officer/ Relationship Manager?",
+            "OptionA": "a) Performing due diligence on prospective clients",
+            "OptionB": "b) Updating policy with local AML regulations",
+            "OptionC": "c) Completing and ongoing monitoring of KYC",
+            "OptionD": "d) Ensuring all completed documents are completed satisfactorily"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "The DCFCL deals with matters related to departmental control functions to ensure which procedures’ are being followed?",
+            "OptionA": "a) Sample based procedures",
+            "OptionB": "b) Partial procedures",
+            "OptionC": "c) Prescribed procedures",
+            "OptionD": "d) Contingent procedures"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "Which Checklist solely deals with matters related to security documents action for sanctioning and downsizing credit facilities to ensure following the prescribed documentation?",
+            "OptionA": "a) QOR",
+            "OptionB": "b) DCFCL",
+            "OptionC": "c) Self-Assessment Report",
+            "OptionD": "d) LDCL"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "At what interval the QOR has to be submitted to ICC?",
+            "OptionA": "a) Quarterly",
+            "OptionB": "b) Monthly",
+            "OptionC": "c) Weekly",
+            "OptionD": "d) Half-Yearly"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "Which particular report is prepared for identifying, assess and control the operational risks of the bank that is submitted to DOS of Bangladesh Bank?",
+            "OptionA": "a) Branch Self-Assessment Report",
+            "OptionB": "b) Quarterly Operations Report",
+            "OptionC": "c) Self-Assessment Anti-Fraud Internal Control Checklist",
+            "OptionD": "d) Prime Risk Indicator"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "To which department of Bangladesh Bank the Self-Assessment Anti-Fraud Internal Control Checklist is submitted?",
+            "OptionA": "a) BRPD",
+            "OptionB": "b) DOS",
+            "OptionC": "c) FEPD",
+            "OptionD": "d) PSD"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "What is the full form of ALCO?",
+            "OptionA": "a) Asset and Liability Management Committee",
+            "OptionB": "b) Asset and Liability Committee Operation",
+            "OptionC": "c) Asset and Liability Committee of Organization",
+            "OptionD": "d) Asset and Liability Core Operation"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "What is the rate of provision for loan which are classified as Bad and Loss?",
+            "OptionA": "a) 100%",
+            "OptionB": "b) 50%",
+            "OptionC": "c) 20%",
+            "OptionD": "d) 2%"
+        },
+        {
+            "Category": "Monitoring",
+            "Questions": "As per Bangladesh Bank circular, what is the mandatory requirement for ATM booths?",
+            "OptionA": "a) Skimming & finger printing devices",
+            "OptionB": "b) Skimming devices",
+            "OptionC": "c) Anti- skimming and PIN shield devices",
+            "OptionD": "d) Anti-skimming & finger printing devices"
+        }
+    ]
+}

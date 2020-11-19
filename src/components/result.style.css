@@ -1,0 +1,65 @@
+.red {
+  color: aliceblue;
+  border-radius: 5px;
+  background: #cb356b; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #bd3f32,
+    #cb356b
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #bd3f32,
+    #cb356b
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.green {
+  color: white;
+  background: #3ca55c; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #3ca55c,
+    #b5ac49
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #3ca55c,
+    #b5ac49
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.answerArea {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.result {
+  background: #ffefba; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #ffffff,
+    #ffefba
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #ffffff,
+    #ffefba
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 10px;
+}
+
+.option {
+  padding: 0.5rem;
+  margin-top: 00.5rem;
+  font-weight: normal;
+}
+
+@media only screen and (max-width: 768px) {
+  .answerArea {
+    grid-template-columns: 1fr;
+  }
+}
